@@ -2,6 +2,5 @@
 # File Name: test.py
 # Created Time: Tue 13 Oct 2015 12:56:05 AM PDT
 #########################################################################
-#! /usr/bin/env python
 # -*- coding: utf-8 -*-
 df
